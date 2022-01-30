@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.22a31ce0.chunk.css",
-    "main.js": "/static/js/main.9a20d7e5.chunk.js",
-    "main.js.map": "/static/js/main.9a20d7e5.chunk.js.map",
+    "main.js": "/static/js/main.36ef8936.chunk.js",
+    "main.js.map": "/static/js/main.36ef8936.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2d905165.js",
     "runtime-main.js.map": "/static/js/runtime-main.2d905165.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.22a31ce0.chunk.css.map": "/static/css/main.22a31ce0.chunk.css.map",
     "static/js/2.591e6ec5.chunk.js.LICENSE.txt": "/static/js/2.591e6ec5.chunk.js.LICENSE.txt",
     "static/media/4.324818c0.png": "/static/media/4.324818c0.png",
-    "static/media/NaishalResume.373c6b63.pdf": "/static/media/NaishalResume.373c6b63.pdf",
+    "static/media/NaishalResume.7fc6406f.pdf": "/static/media/NaishalResume.7fc6406f.pdf",
     "static/media/TSP.7780a970.png": "/static/media/TSP.7780a970.png",
     "static/media/style.css": "/static/media/pre.6d748711.svg",
     "static/media/hair.bedca119.PNG": "/static/media/hair.bedca119.PNG",
@@ -29,6 +29,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.591e6ec5.chunk.js",
     "static/css/main.22a31ce0.chunk.css",
-    "static/js/main.9a20d7e5.chunk.js"
+    "static/js/main.36ef8936.chunk.js"
   ]
 }
